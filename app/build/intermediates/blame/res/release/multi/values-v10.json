@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nadav\\workspaceMars\\Weight Watchers calculator1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v10\\values-v10.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\Nadav\\workspaceMars\\Weight Watchers calculator1\\app\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endLine": 7,
+                    "endColumn": 16,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Nadav\\workspaceMars\\Weight Watchers calculator1\\app\\src\\main\\res\\values-v10\\styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 8,
+                        "startOffset": 364,
+                        "endLine": 12,
+                        "endColumn": 16,
+                        "endOffset": 445
+                    }
+                }
+            }
+        ]
+    }
+]

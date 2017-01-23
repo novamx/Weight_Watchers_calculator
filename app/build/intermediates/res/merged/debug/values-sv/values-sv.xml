@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="BlueViolet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Cornsilk">#FFF8DC</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkViolet">#9400D3</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DimGray">#696969</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Goldenrod">#DAA520</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Khaki">#F0E68C</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="LightGoldenrodYellow">#FAFAD2</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="MediumAquamarine">#66CDAA</color>
+    <color name="MediumBlue">#0000CD</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="MediumVioletRed">#C71585</color>
+    <color name="MidnightBlue">#191970</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="Moccasin">#FFE4B5</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleGoldenrod">#EEE8AA</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="RosyBrown">#BC8F8F</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="SaddleBrown">#8B4513</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="SandyBrown">#F4A460</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="Seashell">#FFF5EE</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="SlateGray">#708090</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <color name="android_green">#A4C639</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_green_dark">#ff669900</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="lime">#00FF00</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="win8_blue">#1BA1E2</color>
+    <color name="win8_brown">#A05000</color>
+    <color name="win8_green">#339933</color>
+    <color name="win8_lime">#8CBF26</color>
+    <color name="win8_magenta">#FF0097</color>
+    <color name="win8_orange">#F09609</color>
+    <color name="win8_pink">#E671B8</color>
+    <color name="win8_purple">#A200FF</color>
+    <color name="win8_red">#E51400</color>
+    <color name="win8_teal">#00ABA9</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string msgid="5835639618285370804" name="accept">"Godkänn"</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">poäng kalkylator</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6162413570337571/1137500440</string>
+    <string name="buy_another_one_use">titta på en annons för ytterligare 1 användning</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Annons"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Castar till %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Textning"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Textning är inte tillgänglig"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Koppla från"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Pågående annons …"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Skivomslag"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Livestream"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Läser in …"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Hoppa över"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Framåt"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Tio sekunder framåt"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Trettio sekunder framåt"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Stäng av ljudet"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Ansluten till <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Ansluter till <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Koppla från"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pausa"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Spela upp"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Spola tillbaka"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Spola tillbaka tio sekunder"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Spola tillbaka trettio sekunder"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Sökreglage för uppspelning"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Hoppa till nästa objekt"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Hoppa till föregående objekt"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Stoppa"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Stoppa liveströmningen"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Ljud"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Avbryt"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Spår <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="5563446400083425854" name="cast_tracks_chooser_dialog_no_audio_tracks">"Det finns inga ljudspår"</string>
+    <string msgid="7413336699113748535" name="cast_tracks_chooser_dialog_no_text_tracks">"Det finns inga textspår"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Inga"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Ok"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Undertexter"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Slå på ljudet"</string>
+    <string name="clicks_left">on the \'\'cal by weight\'\' bar, for get free use and remove the ads buy premium user</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivera"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte om du inte aktiverar Google Play-tjänster."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivera Google Play-tjänster"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installera"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänsterna, som saknas på enheten."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hämta Google Play-tjänster"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fel på Google Play-tjänster"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Det har uppstått ett fel mellan <ns1:g id="APP_NAME">%1$s</ns1:g> och Google Play-tjänsterna. Försök igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Uppdatera"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras om du inte uppdaterar Google Play-tjänsterna."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Uppdatera Google Play-tjänster"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Öppna på mobilen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logga in"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logga in med Google"</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Tillåter du att annonsen skapar en kalenderhändelse?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Skapa kalenderhändelse"</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Annonsinformation"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Förhandsgranskning av annonsmaterial"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Välj ett felsökningsläge"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Felsökning"</string>
+    <string msgid="6099173376375995052" name="decline">"Godkänn inte"</string>
+    <string name="fat">fett</string>
+    <string name="fillbyweight">set how much you eat, at gr!</string>
+    <string name="hel">Proteiner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="keepuse">for keep use the \'\'cal by weight\'\' bar buy premium user</string>
+    <string name="maybe_next_time">next time</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Cast-knappen"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Letar efter enheter"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Casta till"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Skivomslag"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Skärmen castas"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Stäng"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Komprimera"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Koppla från"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Utöka"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Det finns ingen information"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Inga media har valts"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Pausa"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Spela upp"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Sluta casta"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <string name="numberzero">0</string>
+    <string name="pah">kolhydrater</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Rensa sökning"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Söka"</string>
+    <string name="pointsbygrm">beräkna vikt</string>
+    <string name="premium">Köp premium</string>
+    <string name="rate_in_store">Rate this app in play store</string>
+    <string name="reset">återställ</string>
+    <string name="simankria">!</string>
+    <string name="siv">Fiber</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Tillåter du att annonsen sparar bilden i Bildgalleriet?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Spara bild"</string>
+    <string name="totalfor100">Poäng för 100 gr</string>
+    <string name="uses">more uses</string>
+    <string name="valueeaten">Poäng för Vikt</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Köp med Google"</string>
+    <string name="window_purchase">purchase premium user</string>
+    <string name="you_are_premium">you are premium</string>
+    <string name="you_dont_have_premium">"you don't have premium account, you can't use \'\'cal by weight\'\' bar anymore, for keep using him and remove ads purchese premium account"</string>
+    <string name="you_have">you have left</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+
+        
+    </style>
+    <style name="CodeFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="banner">
+    <item name="android:background">@drawable/bannerforrecipecal</item>
+</style>
+</resources>

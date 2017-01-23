@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weight Wacthers sakrekenaar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="valueeaten">Punte vir gewig</string>
+    <string name="totalfor100">Punte vir 100 gr</string>
+    <string name="pah">koolhidrate</string>
+    <string name="hel">proteïene</string>
+    <string name="fat">Fat</string>
+    <string name="siv">vesel</string>
+    <string name="pointsbygrm">kalorieë per gewig</string>
+    <string name="reset">Reset</string>
+    <string name="premium">Koop premie</string>
+    <string name="keepuse">for keep use the \'\'cal by weight\'\' bar buy premium user</string>
+    <string name="fillbyweight">set how much you eat, at gr!</string>
+    <string name="clicks_left">on the \'\'cal by weight\'\' bar, for get free use and remove the ads buy premium user</string>
+    <string name="numberzero">0</string>
+        <string name="you_have">you have left</string>
+            <string name="uses">more uses</string>
+                    <string name="you_dont_have_premium">"you don't have premium account, you can't use \'\'cal by weight\'\' bar anymore, for keep using him and remove ads purchese premium account"</string>
+                            <string name="rate_in_store">Rate this app in play store</string>
+                                                    <string name="window_purchase">purchase premium user</string>
+                             <string name="maybe_next_time">next time</string>
+    <string name="simankria">!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1879901845244912/5172947989</string>
+     <string name="buy_another_one_use">kyk n advertensie vir meer 1 gebruik</string>
+    <string name="you_are_premium">you are premium</string>
+
+</resources>
