@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weight Wacthers cal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="valueeaten">Points for weight</string>
+    <string name="totalfor100">Points for 100 gr</string>
+    <string name="pah">Carbohydrates</string>
+    <string name="hel">Proteins</string>
+    <string name="fat">Fat</string>
+    <string name="siv">Fiber</string>
+    <string name="pointsbygrm">cal by weight</string>
+    <string name="reset">Reset</string>
+    <string name="premium">Buy premium</string>
+    <string name="keepuse">for keep use the \'\'cal by weight\'\' bar buy premium user</string>
+    <string name="fillbyweight">set how much you eat, at gr!</string>
+    <string name="clicks_left">on the \'\'cal by weight\'\' bar, for get free use and remove the ads buy premium user</string>
+    <string name="numberzero">0</string>
+    <string name="you_have">you have left</string>
+    <string name="uses">more uses</string>
+    <string name="you_dont_have_premium">"you don't have premium account, you can't use \'\'cal by weight\'\' bar anymore, for keep using it and remove ads purchese premium account or watch one short ad for 1 more use"</string>
+    <string name="rate_in_store">Rate this app in play store</string>
+    <string name="window_purchase">purchase premium user</string>
+    <string name="maybe_next_time">next time</string>
+    <string name="simankria">!</string>
+    <string name="buy_another_one_use">watch one ad for more 1 use</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6162413570337571/1137500440</string>
+    <string name="you_are_premium">you are premium</string>
+
+</resources>

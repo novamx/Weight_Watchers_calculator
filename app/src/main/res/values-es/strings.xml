@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weight Watchers Calculadora</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="valueeaten">Número de puntos por cantidad </string>
+    <string name="totalfor100">Puntos por 100G</string>
+    <string name="pah">les glucide</string>
+    <string name="hel">Las proteínas</string>
+    <string name="fat">grasas</string>
+    <string name="siv">la fibra dietética</string>
+    <string name="pointsbygrm">Cálculo por cantidad</string>
+    <string name="reset">rejustar</string>
+    <string name="numberzero">0</string>
+    <string name="simankria">!</string>
+    <string name="premium">Comprar Premium</string>
+    <string name="keepuse">para continuar usar el option "Cálculo por cantidad" Comprar Premium</string>
+    <string name="fillbyweight">Llenar en gramos, cantidad exacto para revisar</string>
+    <string name="clicks_left">para continuar el uso libremente, sin ilimitado y publicidad - Comprar Premium</string>
+    <string name="you_have">te quedan</string>
+    <string name="uses">otros usos</string>
+    <string name="you_dont_have_premium">El Medidor de Cálculo por cantidad - es al mas significado medidor. Con el, nos calculemos cuanto puntos exacto nos comimos, según el peso exacto. 
+El período de intento ha terminado. Para seguir y usar el medidor y tambien para cancelar los publicidades – Comprarte el “cliente Premium” ahora! 
+	<string name="buy_another_one_use">ver un anuncio para uno más uso</string></string>
+    <string name="rate_in_store">tasas de aplicación</string>
+    <string name="window_purchase">Comprar el cliente Premium</string>
+    <string name="maybe_next_time">En otro tiempo</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6162413570337571/1137500440</string>
+    <string name="you_are_premium">you are premium</string>
+
+</resources>
